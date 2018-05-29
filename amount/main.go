@@ -13,8 +13,8 @@ import (
 	"math/big"
 	"strconv"
 
-	"github.com/rover/go/support/errors"
-	"github.com/rover/go/xdr"
+	"github.com/laxmicoinofficial/go/support/errors"
+	"github.com/laxmicoinofficial/go/xdr"
 )
 
 // One is the value of one whole unit of currency. Rover uses 7 fixed digits

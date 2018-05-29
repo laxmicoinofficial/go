@@ -1,7 +1,7 @@
 package orbit
 
 import (
-	"github.com/rover/go/services/orbit/internal/simplepath"
+	"github.com/laxmicoinofficial/go/services/orbit/internal/simplepath"
 )
 
 func initPathFinding(app *App) {

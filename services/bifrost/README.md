@@ -18,11 +18,11 @@ It solves many problems connected to moving tokens to Rover Public Mainnet ; Apr
 
 We are releasing the **alpha version** of this software. We encourage our community of developers to test and improve it.
 
-Download the binary from [the release page](https://github.com/laxmicoinofficial/go/releases/tag/bifrost-v0.0.1) and use it with it's [Bifrost JS SDK](https://github.com/rover/bifrost-js-sdk).
+Download the binary from [the release page](https://github.com/laxmicoinofficial/go/releases/tag/bifrost-v0.0.1) and use it with it's [Bifrost JS SDK](https://github.com/laxmicoinofficial/bifrost-js-sdk).
 
 ## How it works
 
-1. User opens the web app implemented using [Bifrost JS SDK](https://github.com/rover/bifrost-js-sdk).
+1. User opens the web app implemented using [Bifrost JS SDK](https://github.com/laxmicoinofficial/bifrost-js-sdk).
 1. User is presented with her public and private Rover Public Mainnet ; April 2018 keys where Bitcoin/Ethereum will be sent.
 1. User selects what cryptocurrency she wants to move to Rover Public Mainnet ; April 2018 network.
 1. A receiving Bitcoin/Ethereum address is generated.

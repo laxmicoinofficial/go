@@ -3,9 +3,9 @@ package main
 import (
 	"net/http"
 
-	"github.com/rover/go/clients/orbit"
-	"github.com/rover/go/services/dakibot/internal"
-	"github.com/rover/go/strkey"
+	"github.com/laxmicoinofficial/go/clients/orbit"
+	"github.com/laxmicoinofficial/go/services/dakibot/internal"
+	"github.com/laxmicoinofficial/go/strkey"
 )
 
 func initDakibot(dakibotSecret string, networkPassphrase string, horizonURL string, startingBalance string) *internal.Bot {

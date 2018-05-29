@@ -1,7 +1,7 @@
 package db
 
 import (
-	"github.com/rover/go/support/errors"
+	"github.com/laxmicoinofficial/go/support/errors"
 )
 
 // Exec executes the query represented by the builder, populating the

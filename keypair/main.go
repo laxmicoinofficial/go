@@ -5,9 +5,9 @@ import (
 	"errors"
 	"io"
 
-	"github.com/rover/go/network"
-	"github.com/rover/go/strkey"
-	"github.com/rover/go/xdr"
+	"github.com/laxmicoinofficial/go/network"
+	"github.com/laxmicoinofficial/go/strkey"
+	"github.com/laxmicoinofficial/go/xdr"
 )
 
 var (

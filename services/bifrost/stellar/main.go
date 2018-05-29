@@ -3,8 +3,8 @@ package stellar
 import (
 	"sync"
 
-	"github.com/rover/go/clients/orbit"
-	"github.com/rover/go/support/log"
+	"github.com/laxmicoinofficial/go/clients/orbit"
+	"github.com/laxmicoinofficial/go/support/log"
 )
 
 // AccountConfigurator is responsible for configuring new Rover accounts that

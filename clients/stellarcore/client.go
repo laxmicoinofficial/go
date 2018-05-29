@@ -11,7 +11,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/rover/go/support/errors"
+	"github.com/laxmicoinofficial/go/support/errors"
 )
 
 // Client represents a client that is capable of communicating with a

@@ -8,7 +8,7 @@ import (
 	"strings"
 
 	sq "github.com/Masterminds/squirrel"
-	"github.com/rover/go/support/errors"
+	"github.com/laxmicoinofficial/go/support/errors"
 )
 
 const (

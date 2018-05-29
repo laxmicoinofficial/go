@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"testing"
 
-	"github.com/rover/go/services/orbit/internal/resource"
+	"github.com/laxmicoinofficial/go/services/orbit/internal/resource"
 )
 
 func TestOrderBookActions_Show(t *testing.T) {

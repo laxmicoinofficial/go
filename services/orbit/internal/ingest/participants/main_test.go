@@ -3,9 +3,9 @@ package participants
 import (
 	"testing"
 
-	"github.com/rover/go/services/orbit/internal/db2/core"
-	"github.com/rover/go/services/orbit/internal/test"
-	"github.com/rover/go/xdr"
+	"github.com/laxmicoinofficial/go/services/orbit/internal/db2/core"
+	"github.com/laxmicoinofficial/go/services/orbit/internal/test"
+	"github.com/laxmicoinofficial/go/xdr"
 )
 
 func TestForOperation(t *testing.T) {

@@ -11,7 +11,7 @@ import (
 
 func TestBuild(t *testing.T) {
 	RegisterFailHandler(Fail)
-	RunSpecs(t, "Package: github.com/rover/go/keypair")
+	RunSpecs(t, "Package: github.com/laxmicoinofficial/go/keypair")
 }
 
 var (

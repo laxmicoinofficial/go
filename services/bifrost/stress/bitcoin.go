@@ -12,8 +12,8 @@ import (
 	"github.com/btcsuite/btcd/wire"
 	"github.com/btcsuite/btcutil"
 	"github.com/haltingstate/secp256k1-go"
-	"github.com/rover/go/services/bifrost/common"
-	"github.com/rover/go/support/log"
+	"github.com/laxmicoinofficial/go/services/bifrost/common"
+	"github.com/laxmicoinofficial/go/support/log"
 )
 
 func (c *RandomBitcoinClient) Start(addresses <-chan string) {

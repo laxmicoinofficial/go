@@ -1,7 +1,7 @@
 package resource
 
 import (
-	"github.com/rover/go/services/orbit/internal/db2/core"
+	"github.com/laxmicoinofficial/go/services/orbit/internal/db2/core"
 )
 
 func (this *AccountFlags) Populate(row core.Account) {

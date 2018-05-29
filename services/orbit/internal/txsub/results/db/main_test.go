@@ -3,9 +3,9 @@ package results
 import (
 	"testing"
 
-	"github.com/rover/go/services/orbit/internal/db2/core"
-	"github.com/rover/go/services/orbit/internal/db2/history"
-	"github.com/rover/go/services/orbit/internal/test"
+	"github.com/laxmicoinofficial/go/services/orbit/internal/db2/core"
+	"github.com/laxmicoinofficial/go/services/orbit/internal/db2/history"
+	"github.com/laxmicoinofficial/go/services/orbit/internal/test"
 )
 
 func TestResultProvider(t *testing.T) {

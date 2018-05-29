@@ -2,7 +2,7 @@ package assets
 
 import (
 	sq "github.com/Masterminds/squirrel"
-	"github.com/rover/go/services/orbit/internal/db2"
+	"github.com/laxmicoinofficial/go/services/orbit/internal/db2"
 )
 
 // AssetStatsR is the result from the AssetStatsQ query

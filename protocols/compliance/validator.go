@@ -2,7 +2,7 @@ package compliance
 
 import (
 	"github.com/asaskevich/govalidator"
-	"github.com/rover/go/address"
+	"github.com/laxmicoinofficial/go/address"
 )
 
 func init() {

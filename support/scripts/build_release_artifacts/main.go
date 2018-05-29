@@ -14,8 +14,8 @@ import (
 
 	"time"
 
-	"github.com/rover/go/support/errors"
-	"github.com/rover/go/support/log"
+	"github.com/laxmicoinofficial/go/support/errors"
+	"github.com/laxmicoinofficial/go/support/log"
 )
 
 var extractBinName = regexp.MustCompile(`^(?P<bin>[a-z-]+)-(?P<tag>.+)$`)
@@ -85,8 +85,8 @@ func binNamesForDir(dir string) []string {
 func build(pkg, dest, version, buildOS, buildArch string) {
 	buildTime := time.Now().Format(time.RFC3339)
 
-	timeFlag := fmt.Sprintf("-X github.com/rover/go/support/app.buildTime=%s", buildTime)
-	versionFlag := fmt.Sprintf("-X github.com/rover/go/support/app.version=%s", version)
+	timeFlag := fmt.Sprintf("-X github.com/laxmicoinofficial/go/support/app.buildTime=%s", buildTime)
+	versionFlag := fmt.Sprintf("-X github.com/laxmicoinofficial/go/support/app.version=%s", version)
 
 	if buildOS == "windows" {
 		dest = dest + ".exe"
@@ -333,7 +333,7 @@ func repoName() string {
 	if os.Getenv("REPO") != "" {
 		return os.Getenv("REPO")
 	}
-	return "github.com/rover/go"
+	return "github.com/laxmicoinofficial/go"
 
 }
 

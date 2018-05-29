@@ -9,13 +9,13 @@ import (
 
 	"github.com/rs/cors"
 	"github.com/spf13/cobra"
-	complianceHandler "github.com/rover/go/handlers/compliance"
-	complianceProtocol "github.com/rover/go/protocols/compliance"
-	"github.com/rover/go/support/app"
-	"github.com/rover/go/support/config"
-	"github.com/rover/go/support/errors"
-	"github.com/rover/go/support/http"
-	"github.com/rover/go/support/log"
+	complianceHandler "github.com/laxmicoinofficial/go/handlers/compliance"
+	complianceProtocol "github.com/laxmicoinofficial/go/protocols/compliance"
+	"github.com/laxmicoinofficial/go/support/app"
+	"github.com/laxmicoinofficial/go/support/config"
+	"github.com/laxmicoinofficial/go/support/errors"
+	"github.com/laxmicoinofficial/go/support/http"
+	"github.com/laxmicoinofficial/go/support/log"
 )
 
 // Config represents the configuration of a federation server

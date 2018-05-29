@@ -3,10 +3,10 @@ package simplepath
 import (
 	"testing"
 
-	"github.com/rover/go/services/orbit/internal/db2/core"
-	"github.com/rover/go/services/orbit/internal/paths"
-	"github.com/rover/go/services/orbit/internal/test"
-	"github.com/rover/go/xdr"
+	"github.com/laxmicoinofficial/go/services/orbit/internal/db2/core"
+	"github.com/laxmicoinofficial/go/services/orbit/internal/paths"
+	"github.com/laxmicoinofficial/go/services/orbit/internal/test"
+	"github.com/laxmicoinofficial/go/xdr"
 )
 
 func TestFinder(t *testing.T) {

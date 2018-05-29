@@ -3,9 +3,9 @@ package resource
 import (
 	"context"
 
-	"github.com/rover/go/amount"
-	"github.com/rover/go/price"
-	"github.com/rover/go/services/orbit/internal/db2/history"
+	"github.com/laxmicoinofficial/go/amount"
+	"github.com/laxmicoinofficial/go/price"
+	"github.com/laxmicoinofficial/go/services/orbit/internal/db2/history"
 )
 
 // Populate fills out the details of a trade using a row from the history_trades

@@ -10,11 +10,11 @@ import (
 	"github.com/pkg/errors"
 	"github.com/rs/cors"
 	"github.com/spf13/cobra"
-	"github.com/rover/go/services/dakibot/internal"
-	"github.com/rover/go/support/config"
-	"github.com/rover/go/support/http/server"
-	"github.com/rover/go/support/log"
-	"github.com/rover/go/support/render/problem"
+	"github.com/laxmicoinofficial/go/services/dakibot/internal"
+	"github.com/laxmicoinofficial/go/support/config"
+	"github.com/laxmicoinofficial/go/support/http/server"
+	"github.com/laxmicoinofficial/go/support/log"
+	"github.com/laxmicoinofficial/go/support/render/problem"
 )
 
 // Config represents the configuration of a dakibot server

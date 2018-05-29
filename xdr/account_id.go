@@ -4,7 +4,7 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/rover/go/strkey"
+	"github.com/laxmicoinofficial/go/strkey"
 )
 
 // Address returns the strkey encoded form of this AccountId.  This method will

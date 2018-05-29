@@ -3,9 +3,9 @@ package ingest
 import (
 	"database/sql"
 
-	"github.com/rover/go/services/orbit/internal/db2/core"
-	"github.com/rover/go/support/db"
-	"github.com/rover/go/support/errors"
+	"github.com/laxmicoinofficial/go/services/orbit/internal/db2/core"
+	"github.com/laxmicoinofficial/go/support/db"
+	"github.com/laxmicoinofficial/go/support/errors"
 )
 
 // Load runs queries against `core` to fill in the records of the bundle.

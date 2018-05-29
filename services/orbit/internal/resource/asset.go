@@ -3,7 +3,7 @@ package resource
 import (
 	"context"
 
-	"github.com/rover/go/xdr"
+	"github.com/laxmicoinofficial/go/xdr"
 )
 
 func (this *Asset) Populate(ctx context.Context, asset xdr.Asset) error {

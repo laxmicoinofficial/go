@@ -14,7 +14,7 @@ It is much smaller and simpler than `rover-core`, and is intended only for archi
 ## Installation
 
 ```
-$ go install github.com/rover/go/tools/stellar-archivist
+$ go install github.com/laxmicoinofficial/go/tools/stellar-archivist
 ```
 
 ## Usage

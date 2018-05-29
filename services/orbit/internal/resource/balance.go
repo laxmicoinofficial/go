@@ -3,10 +3,10 @@ package resource
 import (
 	"context"
 
-	"github.com/rover/go/amount"
-	"github.com/rover/go/services/orbit/internal/assets"
-	"github.com/rover/go/services/orbit/internal/db2/core"
-	"github.com/rover/go/xdr"
+	"github.com/laxmicoinofficial/go/amount"
+	"github.com/laxmicoinofficial/go/services/orbit/internal/assets"
+	"github.com/laxmicoinofficial/go/services/orbit/internal/db2/core"
+	"github.com/laxmicoinofficial/go/xdr"
 )
 
 func (this *Balance) Populate(ctx context.Context, row core.Trustline) (err error) {

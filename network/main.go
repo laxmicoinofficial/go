@@ -8,9 +8,9 @@ import (
 
 	"strings"
 
-	"github.com/rover/go/hash"
-	"github.com/rover/go/support/errors"
-	"github.com/rover/go/xdr"
+	"github.com/laxmicoinofficial/go/hash"
+	"github.com/laxmicoinofficial/go/support/errors"
+	"github.com/laxmicoinofficial/go/xdr"
 )
 
 const (

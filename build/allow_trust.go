@@ -1,8 +1,8 @@
 package build
 
 import (
-	"github.com/rover/go/support/errors"
-	"github.com/rover/go/xdr"
+	"github.com/laxmicoinofficial/go/support/errors"
+	"github.com/laxmicoinofficial/go/xdr"
 )
 
 // AllowTrust groups the creation of a new AllowTrustBuilder with a call to Mutate.

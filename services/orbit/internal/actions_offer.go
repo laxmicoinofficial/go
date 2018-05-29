@@ -1,12 +1,12 @@
 package orbit
 
 import (
-	"github.com/rover/go/services/orbit/internal/db2"
-	"github.com/rover/go/services/orbit/internal/db2/core"
-	"github.com/rover/go/services/orbit/internal/render/hal"
-	"github.com/rover/go/services/orbit/internal/render/sse"
-	"github.com/rover/go/services/orbit/internal/resource"
-	halRender "github.com/rover/go/support/render/hal"
+	"github.com/laxmicoinofficial/go/services/orbit/internal/db2"
+	"github.com/laxmicoinofficial/go/services/orbit/internal/db2/core"
+	"github.com/laxmicoinofficial/go/services/orbit/internal/render/hal"
+	"github.com/laxmicoinofficial/go/services/orbit/internal/render/sse"
+	"github.com/laxmicoinofficial/go/services/orbit/internal/resource"
+	halRender "github.com/laxmicoinofficial/go/support/render/hal"
 )
 
 // This file contains the actions:

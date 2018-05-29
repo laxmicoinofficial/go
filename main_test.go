@@ -7,10 +7,10 @@ import (
 	"log"
 	"strings"
 
-	b "github.com/rover/go/build"
-	"github.com/rover/go/hash"
-	"github.com/rover/go/keypair"
-	"github.com/rover/go/xdr"
+	b "github.com/laxmicoinofficial/go/build"
+	"github.com/laxmicoinofficial/go/hash"
+	"github.com/laxmicoinofficial/go/keypair"
+	"github.com/laxmicoinofficial/go/xdr"
 )
 
 // ExampleDecodeTransaction shows the lowest-level process to decode a base64

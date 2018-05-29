@@ -3,9 +3,9 @@ package effects
 import (
 	"context"
 
-	"github.com/rover/go/services/orbit/internal/db2/history"
-	"github.com/rover/go/services/orbit/internal/httpx"
-	"github.com/rover/go/services/orbit/internal/render/hal"
+	"github.com/laxmicoinofficial/go/services/orbit/internal/db2/history"
+	"github.com/laxmicoinofficial/go/services/orbit/internal/httpx"
+	"github.com/laxmicoinofficial/go/services/orbit/internal/render/hal"
 )
 
 // PagingToken implements `hal.Pageable`

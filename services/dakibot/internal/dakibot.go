@@ -5,10 +5,10 @@ import (
 	"strconv"
 	"sync"
 
-	b "github.com/rover/go/build"
-	"github.com/rover/go/clients/orbit"
-	"github.com/rover/go/keypair"
-	"github.com/rover/go/support/errors"
+	b "github.com/laxmicoinofficial/go/build"
+	"github.com/laxmicoinofficial/go/clients/orbit"
+	"github.com/laxmicoinofficial/go/keypair"
+	"github.com/laxmicoinofficial/go/support/errors"
 )
 
 // Bot represents the dakibot subsystem.

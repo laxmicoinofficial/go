@@ -4,9 +4,9 @@ package core
 
 import (
 	"github.com/guregu/null"
-	"github.com/rover/go/strkey"
-	"github.com/rover/go/support/db"
-	"github.com/rover/go/xdr"
+	"github.com/laxmicoinofficial/go/strkey"
+	"github.com/laxmicoinofficial/go/support/db"
+	"github.com/laxmicoinofficial/go/xdr"
 )
 
 // Account is a row of data from the `accounts` table

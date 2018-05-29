@@ -7,7 +7,7 @@ Orbit is the [client facing API](/docs) server for the Rover ecosystem.  It acts
 [Prebuilt binaries](https://github.com/laxmicoinofficial/go/releases) of orbit are available on the 
 [releases page](https://github.com/laxmicoinofficial/go/releases).
 
-See [the old releases page](https://github.com/rover/orbit/releases) for prior releases
+See [the old releases page](https://github.com/laxmicoinofficial/orbit/releases) for prior releases
 
 | Platform       | Binary file name                                                                         |
 |----------------|------------------------------------------------------------------------------------------|
@@ -39,7 +39,7 @@ Next, you must download the source for packages that orbit depends upon. From wi
 glide install
 ```
 
-Then, simply run `go install github.com/rover/go/services/orbit`.  After successful
+Then, simply run `go install github.com/laxmicoinofficial/go/services/orbit`.  After successful
 completion, you should find `orbit` is present in your `$GOPATH/bin` directory.
 
 More detailed intructions and [admin guide](internal/docs/reference/admin.md). 

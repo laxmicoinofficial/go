@@ -3,8 +3,8 @@ package core
 import (
 	"math/big"
 
-	"github.com/rover/go/amount"
-	"github.com/rover/go/xdr"
+	"github.com/laxmicoinofficial/go/amount"
+	"github.com/laxmicoinofficial/go/xdr"
 )
 
 // InvertPricef returns the inverted price of the price-level, i.e. what the price would be if you were
@@ -19,7 +19,7 @@ func (p *PriceLevel) PriceAsString() string {
 }
 
 // AmountAsString returns the amount as a string, formatted using
-// the amount.String() utility from github.com/rover/go.
+// the amount.String() utility from github.com/laxmicoinofficial/go.
 func (p *PriceLevel) AmountAsString() string {
 	return amount.String(xdr.Int64(p.Amount))
 }

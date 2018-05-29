@@ -3,9 +3,9 @@ package orbit
 import (
 	"testing"
 
-	"github.com/rover/go/services/orbit/internal/db2/history"
-	"github.com/rover/go/services/orbit/internal/resource/effects"
-	"github.com/rover/go/services/orbit/internal/test"
+	"github.com/laxmicoinofficial/go/services/orbit/internal/db2/history"
+	"github.com/laxmicoinofficial/go/services/orbit/internal/resource/effects"
+	"github.com/laxmicoinofficial/go/services/orbit/internal/test"
 )
 
 func TestEffectActions_Index(t *testing.T) {

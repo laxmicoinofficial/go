@@ -1,9 +1,9 @@
 package build
 
 import (
-	"github.com/rover/go/keypair"
-	"github.com/rover/go/support/errors"
-	"github.com/rover/go/xdr"
+	"github.com/laxmicoinofficial/go/keypair"
+	"github.com/laxmicoinofficial/go/support/errors"
+	"github.com/laxmicoinofficial/go/xdr"
 )
 
 func setAccountId(addressOrSeed string, aid *xdr.AccountId) error {

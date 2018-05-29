@@ -3,7 +3,7 @@ package db
 import (
 	"database/sql"
 
-	"github.com/rover/go/support/errors"
+	"github.com/laxmicoinofficial/go/support/errors"
 )
 
 // Exec executes the query that has been previously configured on the

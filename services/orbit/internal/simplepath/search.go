@@ -1,8 +1,8 @@
 package simplepath
 
 import (
-	"github.com/rover/go/services/orbit/internal/paths"
-	"github.com/rover/go/xdr"
+	"github.com/laxmicoinofficial/go/services/orbit/internal/paths"
+	"github.com/laxmicoinofficial/go/xdr"
 )
 
 // search represents a single query against the simple finder.  It provides

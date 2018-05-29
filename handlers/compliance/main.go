@@ -1,7 +1,7 @@
 package compliance
 
 import (
-	"github.com/rover/go/protocols/compliance"
+	"github.com/laxmicoinofficial/go/protocols/compliance"
 )
 
 // Strategy defines strategy for handling auth requests.

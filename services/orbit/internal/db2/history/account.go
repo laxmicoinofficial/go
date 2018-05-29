@@ -2,8 +2,8 @@ package history
 
 import (
 	sq "github.com/Masterminds/squirrel"
-	"github.com/rover/go/services/orbit/internal/db2"
-	"github.com/rover/go/xdr"
+	"github.com/laxmicoinofficial/go/services/orbit/internal/db2"
+	"github.com/laxmicoinofficial/go/xdr"
 )
 
 // Accounts provides a helper to filter rows from the `history_accounts` table

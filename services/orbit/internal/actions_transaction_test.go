@@ -5,9 +5,9 @@ import (
 	"net/url"
 	"testing"
 
-	"github.com/rover/go/services/orbit/internal/resource"
-	"github.com/rover/go/services/orbit/internal/txsub"
-	"github.com/rover/go/services/orbit/internal/txsub/sequence"
+	"github.com/laxmicoinofficial/go/services/orbit/internal/resource"
+	"github.com/laxmicoinofficial/go/services/orbit/internal/txsub"
+	"github.com/laxmicoinofficial/go/services/orbit/internal/txsub/sequence"
 )
 
 func TestTransactionActions_Show(t *testing.T) {

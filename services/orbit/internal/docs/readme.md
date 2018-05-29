@@ -11,12 +11,12 @@ SDF runs a instance of Orbit that is connected to the test net [https://orbit-te
 ## Libraries
 
 SDF maintained libraries:<br />
-- [JavaScript](https://github.com/rover/js-rover-sdk)
-- [Java](https://github.com/rover/java-rover-sdk)
+- [JavaScript](https://github.com/laxmicoinofficial/js-rover-sdk)
+- [Java](https://github.com/laxmicoinofficial/java-rover-sdk)
 - [Go](https://github.com/laxmicoinofficial/go)
 
 Community maintained libraries (in various states of completeness) for interacting with Orbit in other languages:<br>
-- [Ruby](https://github.com/rover/ruby-rover-sdk)
+- [Ruby](https://github.com/laxmicoinofficial/ruby-rover-sdk)
 - [Python](https://github.com/StellarCN/py-rover-base)
 - [C# .NET 2.0](https://github.com/QuantozTechnology/csharp-rover-base)
 - [C# .NET Core 2.x](https://github.com/elucidsoft/dotnetcore-rover-sdk)

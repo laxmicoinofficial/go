@@ -3,10 +3,10 @@ package resource
 import (
 	"context"
 
-	"github.com/rover/go/amount"
-	"github.com/rover/go/services/orbit/internal/db2/assets"
-	"github.com/rover/go/services/orbit/internal/render/hal"
-	"github.com/rover/go/xdr"
+	"github.com/laxmicoinofficial/go/amount"
+	"github.com/laxmicoinofficial/go/services/orbit/internal/db2/assets"
+	"github.com/laxmicoinofficial/go/services/orbit/internal/render/hal"
+	"github.com/laxmicoinofficial/go/xdr"
 )
 
 // Populate fills out the details

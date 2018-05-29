@@ -5,9 +5,9 @@ import (
 	"errors"
 	"sync"
 
-	. "github.com/rover/go/build"
-	"github.com/rover/go/keypair"
-	"github.com/rover/go/services/orbit/internal/txsub"
+	. "github.com/laxmicoinofficial/go/build"
+	"github.com/laxmicoinofficial/go/keypair"
+	"github.com/laxmicoinofficial/go/services/orbit/internal/txsub"
 )
 
 // Bot represents the dakibot subsystem.

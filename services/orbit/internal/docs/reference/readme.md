@@ -2,7 +2,7 @@
 title: Overview
 ---
 
-Orbit is an API server for the Rover ecosystem.  It acts as the interface between [rover-core](https://github.com/rover/rover-core) and applications that want to access the Rover network. It allows you to submit transactions to the network, check the status of accounts, subscribe to event streams, etc. See [an overview of the Rover ecosystem](https://www.rover.network/developers/guides/) for details of where Orbit fits in. You can also watch a [talk on Orbit](https://www.youtube.com/watch?v=AtJ-f6Ih4A4) by Rover.network developer Scott Fleckenstein:
+Orbit is an API server for the Rover ecosystem.  It acts as the interface between [rover-core](https://github.com/laxmicoinofficial/rover-core) and applications that want to access the Rover network. It allows you to submit transactions to the network, check the status of accounts, subscribe to event streams, etc. See [an overview of the Rover ecosystem](https://www.rover.network/developers/guides/) for details of where Orbit fits in. You can also watch a [talk on Orbit](https://www.youtube.com/watch?v=AtJ-f6Ih4A4) by Rover.network developer Scott Fleckenstein:
 
 [![Orbit: API webserver for the Rover network](https://img.youtube.com/vi/AtJ-f6Ih4A4/sddefault.jpg "Orbit: API webserver for the Rover network")](https://www.youtube.com/watch?v=AtJ-f6Ih4A4)
 
@@ -15,11 +15,11 @@ SDF runs a instance of Orbit that is connected to the test net: [https://orbit-t
 ## Libraries
 
 SDF maintained libraries:<br />
-- [JavaScript](https://github.com/rover/js-rover-sdk)
-- [Java](https://github.com/rover/java-rover-sdk)
+- [JavaScript](https://github.com/laxmicoinofficial/js-rover-sdk)
+- [Java](https://github.com/laxmicoinofficial/java-rover-sdk)
 - [Go](https://github.com/laxmicoinofficial/go)
 
 Community maintained libraries (in various states of completeness) for interacting with Orbit in other languages:<br>
-- [Ruby](https://github.com/rover/ruby-rover-sdk)
+- [Ruby](https://github.com/laxmicoinofficial/ruby-rover-sdk)
 - [Python](https://github.com/StellarCN/py-rover-base)
 - [C#](https://github.com/QuantozTechnology/csharp-rover-base)

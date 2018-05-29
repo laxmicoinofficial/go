@@ -1,7 +1,7 @@
 package hal
 
 import (
-	sUrl "github.com/rover/go/support/url"
+	sUrl "github.com/laxmicoinofficial/go/support/url"
 	"net/url"
 	"strconv"
 )

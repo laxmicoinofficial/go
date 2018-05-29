@@ -3,11 +3,11 @@ package resource
 import (
 	"context"
 
-	"github.com/rover/go/amount"
-	"github.com/rover/go/services/orbit/internal/assets"
-	"github.com/rover/go/services/orbit/internal/db2/core"
-	"github.com/rover/go/services/orbit/internal/httpx"
-	"github.com/rover/go/services/orbit/internal/render/hal"
+	"github.com/laxmicoinofficial/go/amount"
+	"github.com/laxmicoinofficial/go/services/orbit/internal/assets"
+	"github.com/laxmicoinofficial/go/services/orbit/internal/db2/core"
+	"github.com/laxmicoinofficial/go/services/orbit/internal/httpx"
+	"github.com/laxmicoinofficial/go/services/orbit/internal/render/hal"
 )
 
 func (this *Offer) Populate(ctx context.Context, row core.Offer) {

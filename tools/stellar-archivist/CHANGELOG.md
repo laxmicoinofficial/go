@@ -8,6 +8,6 @@ bumps.  A breaking change will get clearly notified in this log.
 
 ## [v0.1.0] - 2016-08-17
 
-Initial release after import from https://github.com/rover/archivist
+Initial release after import from https://github.com/laxmicoinofficial/archivist
 
 [Unreleased]: https://github.com/laxmicoinofficial/go/compare/stellar-archivist-v0.1.0...master

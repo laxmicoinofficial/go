@@ -4,8 +4,8 @@ import (
 	"net/http"
 	"testing"
 
-	"github.com/rover/go/services/orbit/internal/test"
-	"github.com/rover/go/services/orbit/internal/render/sse"
+	"github.com/laxmicoinofficial/go/services/orbit/internal/test"
+	"github.com/laxmicoinofficial/go/services/orbit/internal/render/sse"
 )
 
 func TestNewApp(t *testing.T) {

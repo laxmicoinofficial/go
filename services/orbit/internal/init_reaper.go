@@ -1,7 +1,7 @@
 package orbit
 
 import (
-	"github.com/rover/go/services/orbit/internal/reap"
+	"github.com/laxmicoinofficial/go/services/orbit/internal/reap"
 )
 
 func initReaper(app *App) {

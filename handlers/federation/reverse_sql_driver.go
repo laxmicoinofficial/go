@@ -1,6 +1,6 @@
 package federation
 
-import "github.com/rover/go/support/errors"
+import "github.com/laxmicoinofficial/go/support/errors"
 
 // LookupReverseRecord implements `ReverseDriver` by performing
 // `drv.LookupReverseRecordQuery` against `drv.DB` using the provided parameter

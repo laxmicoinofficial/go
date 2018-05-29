@@ -15,8 +15,8 @@ package main
 import (
 	"fmt"
 
-	b "github.com/rover/go/build"
-	"github.com/rover/go/clients/orbit"
+	b "github.com/laxmicoinofficial/go/build"
+	"github.com/laxmicoinofficial/go/clients/orbit"
 )
 
 func main() {
@@ -64,7 +64,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/rover/go/clients/orbit"
+	"github.com/laxmicoinofficial/go/clients/orbit"
 )
 
 func main() {

@@ -6,8 +6,8 @@ import (
 	"net/http"
 
 	"github.com/BurntSushi/toml"
-	"github.com/rover/go/address"
-	"github.com/rover/go/support/errors"
+	"github.com/laxmicoinofficial/go/address"
+	"github.com/laxmicoinofficial/go/support/errors"
 )
 
 // GetStellarToml returns rover.toml file for a given domain

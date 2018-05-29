@@ -3,10 +3,10 @@ set -e
 
 DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
 GOTOP="$( cd "$DIR/../../../../../../../.." && pwd )"
-PACKAGES=$(find $GOTOP/src/github.com/rover/go/services/orbit/internal/test/scenarios -iname '*.rb' -not -name '_common_accounts.rb')
-# PACKAGES=$(find $GOTOP/src/github.com/rover/go/services/orbit/internal/test/scenarios -iname 'kahuna.rb')
+PACKAGES=$(find $GOTOP/src/github.com/laxmicoinofficial/go/services/orbit/internal/test/scenarios -iname '*.rb' -not -name '_common_accounts.rb')
+# PACKAGES=$(find $GOTOP/src/github.com/laxmicoinofficial/go/services/orbit/internal/test/scenarios -iname 'kahuna.rb')
 
-go install github.com/rover/go/services/orbit
+go install github.com/laxmicoinofficial/go/services/orbit
 
 dropdb hayashi_scenarios --if-exists
 createdb hayashi_scenarios
@@ -44,5 +44,5 @@ done
 
 
 # commit new sql files to bindata
-go generate github.com/rover/go/services/orbit/internal/test/scenarios
-# go test github.com/rover/go/services/orbit/internal/ingest
+go generate github.com/laxmicoinofficial/go/services/orbit/internal/test/scenarios
+# go test github.com/laxmicoinofficial/go/services/orbit/internal/ingest

@@ -43,7 +43,7 @@ Provided your workstation satisfies the requirements above, follow the steps bel
 
 1. Clone orbit's source:  `git clone https://github.com/laxmicoinofficial/go.git && cd go`
 2. Download external dependencies: `glide install`
-3. Build the binary: `go install github.com/rover/go/services/orbit`
+3. Build the binary: `go install github.com/laxmicoinofficial/go/services/orbit`
 
 After running the above commands have succeeded, the built orbit will have be written into the `bin` subdirectory of the current directory.
 

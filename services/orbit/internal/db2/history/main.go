@@ -8,8 +8,8 @@ import (
 
 	sq "github.com/Masterminds/squirrel"
 	"github.com/guregu/null"
-	"github.com/rover/go/support/db"
-	"github.com/rover/go/xdr"
+	"github.com/laxmicoinofficial/go/support/db"
+	"github.com/laxmicoinofficial/go/xdr"
 )
 
 const (

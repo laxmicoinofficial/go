@@ -8,8 +8,8 @@ import (
 
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
-	"github.com/rover/go/support/errors"
-	"github.com/rover/go/support/http/httptest"
+	"github.com/laxmicoinofficial/go/support/errors"
+	"github.com/laxmicoinofficial/go/support/http/httptest"
 )
 
 func ExampleClient_StreamLedgers() {

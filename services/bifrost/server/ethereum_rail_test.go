@@ -8,10 +8,10 @@ import (
 	"testing"
 	"time"
 
-	"github.com/rover/go/services/bifrost/database"
-	"github.com/rover/go/services/bifrost/ethereum"
-	"github.com/rover/go/services/bifrost/queue"
-	"github.com/rover/go/services/bifrost/sse"
+	"github.com/laxmicoinofficial/go/services/bifrost/database"
+	"github.com/laxmicoinofficial/go/services/bifrost/ethereum"
+	"github.com/laxmicoinofficial/go/services/bifrost/queue"
+	"github.com/laxmicoinofficial/go/services/bifrost/sse"
 	"github.com/stretchr/testify/mock"
 	"github.com/stretchr/testify/suite"
 )

@@ -7,9 +7,9 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/rover/go/clients/orbit"
-	"github.com/rover/go/clients/stellartoml"
-	"github.com/rover/go/support/http/httptest"
+	"github.com/laxmicoinofficial/go/clients/orbit"
+	"github.com/laxmicoinofficial/go/clients/stellartoml"
+	"github.com/laxmicoinofficial/go/support/http/httptest"
 	"github.com/stretchr/testify/assert"
 )
 

@@ -3,8 +3,8 @@ package resource
 import (
 	"context"
 
-	"github.com/rover/go/amount"
-	"github.com/rover/go/services/orbit/internal/paths"
+	"github.com/laxmicoinofficial/go/amount"
+	"github.com/laxmicoinofficial/go/services/orbit/internal/paths"
 )
 
 func (this *Path) Populate(ctx context.Context, q paths.Query, p paths.Path) (err error) {
